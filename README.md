@@ -15,7 +15,7 @@ You can try the live application here:
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/streamlit/docs/main/public/images/tutorials/visualize-data.png" width="700" alt="App Preview">
+  <img src="https://github.com/SLxnoat/laptop_price_predictor/blob/main/app_screenshot.png" width="700" alt="App Preview">
 </p>
 *(Note: Replace this image link with a screenshot of YOUR actual app once you upload it to GitHub)*
 
