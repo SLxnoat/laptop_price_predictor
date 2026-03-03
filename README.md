@@ -12,13 +12,10 @@ You can try the live application here:
 🔗 **[Laptop Price Predictor Web App](https://laptop-price-predictor-xnoat.streamlit.app/)**
 
 ---
-
 ## 📸 Screenshots
 <p align="center">
   <img src="https://github.com/SLxnoat/laptop_price_predictor/blob/main/app_screenshot.png" width="700" alt="App Preview">
 </p>
-*(Note: Replace this image link with a screenshot of YOUR actual app once you upload it to GitHub)*
-
 ---
 
 ## 📊 Project Highlights
